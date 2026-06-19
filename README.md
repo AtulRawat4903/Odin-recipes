@@ -4,7 +4,7 @@ I applied CSS to enhance the visual design, focusing on page layout, typography,
 
 After completing this project, I learned the following beginner web development concepts:
 
-* Basic HTML structure: (<!DOCTYPE html>, <html>, <head>, <body>)
+* Basic HTML structure
 * Content elements: Headings, paragraphs, lists, and links
 * CSS styling: Implementing the box model, managing colors, styling fonts, and using pseudo-classes for interactive elements like link hovers
 * Layout control: Using max-width, margin: 0 auto, and display: block for centering and responsive positioning
